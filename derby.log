@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Mar 29 09:08:46 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0171-2668-adb0-00000651f4e8 
+on database directory memory:/Users/manojkumar/IdeaProjects/demoSpring/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/Users/manojkumar/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.14.1.0/3bcd8b1af3f8cd022d54d331e00064776be04f9c/derby-10.14.1.0.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.3+12-b304.56
+user.dir=/Users/manojkumar/IdeaProjects/demoSpring
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 29 09:10:16 EDT 2020:
+Shutting down instance a816c00e-0171-2668-adb0-00000651f4e8 on database directory memory:/Users/manojkumar/IdeaProjects/demoSpring/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
